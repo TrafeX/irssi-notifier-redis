@@ -30,3 +30,7 @@ Local client
 Security
 ========
 Don't forget to secure your server and enable the requirepass option in your redis.conf.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TrafeX/irssi-notifier-redis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
